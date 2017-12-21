@@ -1,0 +1,2 @@
+D:\Computer Science\Game Development\Memoton\DemoGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Career Path\Game Development\Memoton\DemoGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

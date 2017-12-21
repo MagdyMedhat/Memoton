@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoton", "Memoton\Memoton.csproj", "{A91C7820-13F4-463B-AF62-05D080AB849D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGame", "DemoGame\DemoGame.csproj", "{CB187646-5950-4164-B4CD-BA2502ADDD26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91C7820-13F4-463B-AF62-05D080AB849D}.Debug|x86.ActiveCfg = Debug|x86
+		{A91C7820-13F4-463B-AF62-05D080AB849D}.Debug|x86.Build.0 = Debug|x86
+		{A91C7820-13F4-463B-AF62-05D080AB849D}.Release|x86.ActiveCfg = Release|x86
+		{A91C7820-13F4-463B-AF62-05D080AB849D}.Release|x86.Build.0 = Release|x86
+		{1581337B-D496-4E94-9CF7-E9E3FB7C3CBA}.Debug|x86.ActiveCfg = Debug|x86
+		{1581337B-D496-4E94-9CF7-E9E3FB7C3CBA}.Release|x86.ActiveCfg = Release|x86
+		{CB187646-5950-4164-B4CD-BA2502ADDD26}.Debug|x86.ActiveCfg = Debug|x86
+		{CB187646-5950-4164-B4CD-BA2502ADDD26}.Debug|x86.Build.0 = Debug|x86
+		{CB187646-5950-4164-B4CD-BA2502ADDD26}.Release|x86.ActiveCfg = Release|x86
+		{CB187646-5950-4164-B4CD-BA2502ADDD26}.Release|x86.Build.0 = Release|x86
+		{1AE12FCE-FB9A-451B-8E8C-616EBC4BC198}.Debug|x86.ActiveCfg = Debug|x86
+		{1AE12FCE-FB9A-451B-8E8C-616EBC4BC198}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

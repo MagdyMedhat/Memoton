@@ -1,0 +1,3 @@
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Game Development\Memoton\Memoton\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\bin\x86\Debug\Memoton.dll
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\bin\x86\Debug\Memoton.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\obj\x86\Debug\Memoton.dll
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Memoton\Memoton\obj\x86\Debug\Memoton.pdb
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Debug\Memoton.dll
+D:\Computer Science\Game Development\Memoton\Memoton\bin\x86\Debug\Memoton.dll
+D:\Computer Science\Game Development\Memoton\Memoton\bin\x86\Debug\Memoton.pdb
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Debug\Memoton.pdb
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\bin\x86\Debug\Memoton.dll
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\bin\x86\Debug\Memoton.pdb
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\obj\x86\Debug\Memoton.dll
+D:\Computer Science\Career Path\Game Development\Memoton\Memoton\obj\x86\Debug\Memoton.pdb

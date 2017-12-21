@@ -1,0 +1,16 @@
+D:\Computer Science\Game Development\Memoton\DemoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Computer Science\Game Development\Memoton\DemoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\DemoGame.exe
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\DemoGame.pdb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Memoton.dll
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Memoton.pdb
+D:\Computer Science\Game Development\Memoton\DemoGame\obj\x86\Debug\DemoGame.exe
+D:\Computer Science\Game Development\Memoton\DemoGame\obj\x86\Debug\DemoGame.pdb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\spritefont.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\sound.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\texture.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\animation.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\btn.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\btnhover.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\bar.xnb
+D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\progress.xnb

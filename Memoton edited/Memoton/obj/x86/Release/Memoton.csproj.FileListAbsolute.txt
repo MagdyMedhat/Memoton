@@ -1,0 +1,6 @@
+D:\Computer Science\Game Development\Memoton\Memoton\bin\x86\Release\Memoton.dll
+D:\Computer Science\Game Development\Memoton\Memoton\bin\x86\Release\Memoton.pdb
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Release\Memoton.dll
+D:\Computer Science\Game Development\Memoton\Memoton\obj\x86\Release\Memoton.pdb

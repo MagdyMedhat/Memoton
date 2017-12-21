@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>spritefont.spritefont</Source>
+      <Name>spritefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\spritefont.xnb</Output>
+      <Time>2010-10-07T16:20:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound.WAV</Source>
+      <Name>sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\sound.xnb</Output>
+      <Time>2010-10-07T16:53:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>texture.jpg</Source>
+      <Name>texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\texture.xnb</Output>
+      <Time>2010-10-07T19:15:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>animation.png</Source>
+      <Name>animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\animation.xnb</Output>
+      <Time>2010-10-07T19:17:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btn.PNG</Source>
+      <Name>btn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\btn.xnb</Output>
+      <Time>2010-10-07T19:47:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnhover.PNG</Source>
+      <Name>btnhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\btnhover.xnb</Output>
+      <Time>2010-10-07T20:00:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bar.PNG</Source>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\bar.xnb</Output>
+      <Time>2010-10-07T20:40:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>progress.PNG</Source>
+      <Name>progress</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\progress.xnb</Output>
+      <Time>2010-10-07T20:40:56+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Computer Science\Game Development\Memoton\DemoGame\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Computer Science\Game Development\Memoton\DemoGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Computer Science\Game Development\Memoton\DemoGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Computer Science\Game Development\Memoton\DemoGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-27T01:19:34+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

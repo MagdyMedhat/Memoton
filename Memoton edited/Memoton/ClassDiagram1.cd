@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Memoton.BasicComponents.ZAnimation" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQgCRAAAAABAwAAACAAAAAAAAAAAAAgAABBBAABAAQ=</HashCode>
+      <FileName>BasicComponents\ZAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZButton" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAIIAFAABwAAAAAAEAAAAAAAAAAAQQAAAAAAAAQ=</HashCode>
+      <FileName>BasicComponents\ZButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZLoadingBar" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAgAAAAAAAAAAAAgAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>BasicComponents\ZLoadingBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZSound" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAAAAAAAAAQAAAAoBAAAAAAAAQ=</HashCode>
+      <FileName>BasicComponents\ZSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZText" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAABggAAAAAEAAAAAAAAAACAAAAACAAAAAQ=</HashCode>
+      <FileName>BasicComponents\ZText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZTexture" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABAABAgAgAAAAAEAEAAAAAAAAAAIAAAAAAAQ=</HashCode>
+      <FileName>BasicComponents\ZTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.BasicComponents.ZTimer" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAABABAAAAAQABgAAAgAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicComponents\ZTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.Fundamentals.InputManager" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhAAAAAAEAAAAAwACAAEAAAACQAAEEACAAQAAQAAA=</HashCode>
+      <FileName>Fundamentals\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.Fundamentals.ScreenManager" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Fundamentals\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.Fundamentals.XMLManager" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fundamentals\XMLManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.Helpers.CommonState" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAACAIAACAAAAAECAAAAAIAAAAAA=</HashCode>
+      <FileName>Helpers\CommonState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.ZComponent">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAwAAAAAAAAAAQACAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ZComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memoton.ZEngine">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAgABAAwBAAAgAACgAAAAAABAEQAAAIAgAAAQ=</HashCode>
+      <FileName>ZEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
